@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.3875" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2155" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/layout/activity_music_player.xml" value="0.25" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/layout/activity_playlist_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/layout/activity_register.xml" value="0.3875" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/layout/activity_song_list.xml" value="0.25" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/layout/recycler_item.xml" value="0.33" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Deniz/Desktop/AndroidProjeler/ud851-Exercises-student/Fakeify/app/src/main/res/xml/provider_paths.xml" value="0.2546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
